@@ -1,0 +1,19 @@
+{
+  "name": "jquery-ui-sortable",
+  "version": "1.2.0",
+  "description": "jquery-ui-sortable",
+  "main": "jquery-ui-sortable.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivify-Ideas/jquery-ui-sortable.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vivify-Ideas/jquery-ui-sortable/issues"
+  },
+  "homepage": "https://github.com/Vivify-Ideas/jquery-ui-sortable#readme",
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
