@@ -1,0 +1,19 @@
+{
+  "name": "jquery-ui-sortable",
+  "version": "1.2.0",
+  "description": "jquery-ui-sortable",
+  "main": ["./jquery-ui-sortable.min.js","./jquery-ui-sortable.js"],
+  "keywords": [
+    "jQuery",
+    "UI",
+    "Sortable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".gitignore",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}

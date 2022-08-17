@@ -1,0 +1,47 @@
+{
+  "_args": [
+    [
+      "jquery-ui-sortable@git+https://github.com/Vivify-Ideas/jquery-ui-sortable.git",
+      "/Users/brankomirnic/Desktop/vivify/code/sticky/GazeApp"
+    ]
+  ],
+  "_from": "jquery-ui-sortable@git+https://github.com/Vivify-Ideas/jquery-ui-sortable.git",
+  "_id": "jquery-ui-sortable@git+ssh://git@github.com/Vivify-Ideas/jquery-ui-sortable.git#d5a068883dd2a3d04bbdb6a838cf029db8a5f124",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/jquery-ui-sortable",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "jquery-ui-sortable@git+https://github.com/Vivify-Ideas/jquery-ui-sortable.git",
+    "name": "jquery-ui-sortable",
+    "escapedName": "jquery-ui-sortable",
+    "rawSpec": "git+https://github.com/Vivify-Ideas/jquery-ui-sortable.git",
+    "saveSpec": "git+https://github.com/Vivify-Ideas/jquery-ui-sortable.git",
+    "fetchSpec": "https://github.com/Vivify-Ideas/jquery-ui-sortable.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/Vivify-Ideas/jquery-ui-sortable.git#d5a068883dd2a3d04bbdb6a838cf029db8a5f124",
+  "_spec": "git+https://github.com/Vivify-Ideas/jquery-ui-sortable.git",
+  "_where": "/Users/brankomirnic/Desktop/vivify/code/sticky/GazeApp",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Vivify-Ideas/jquery-ui-sortable/issues"
+  },
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "description": "jquery-ui-sortable",
+  "homepage": "https://github.com/Vivify-Ideas/jquery-ui-sortable#readme",
+  "license": "MIT",
+  "main": "jquery-ui-sortable.js",
+  "name": "jquery-ui-sortable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivify-Ideas/jquery-ui-sortable.git"
+  },
+  "version": "1.2.0"
+}
